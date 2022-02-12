@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 
 
 Here are some ideas to get you started:
@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ... -->
 
 [![42 stats](https://badge42.herokuapp.com/api/stats/msako?cursus=42cursus)](https://github.com/JaeSeoKim/badge42)
