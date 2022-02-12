@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 [![42 stats](https://badge42.herokuapp.com/api/stats/msako?cursus=42cursus)](https://github.com/JaeSeoKim/badge42)
