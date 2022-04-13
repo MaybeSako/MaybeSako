@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-[![42 stats](https://badge42.herokuapp.com/api/stats/msako?darkmode=truecursus=42cursus)](https://github.com/JaeSeoKim/badge42)
+[![msako's 42 stats](https://badge42.vercel.app/api/v2/cl1xt594o004809mh4n0g1vc8/stats?cursusId=21&coalitionId=63)](https://github.com/JaeSeoKim/badge42)
